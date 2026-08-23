@@ -5,7 +5,7 @@ export const USER_PROFILE = {
   title: 'B.Tech IT Student | Cloud & DevOps Enthusiast',
   tagline: 'Aspiring Software Engineer passionate about Cloud Computing (AWS), DevOps & Full-Stack Development.',
   email: 'cvimal144@gmail.com',
-  phone: '9569944197',
+  phone: '95699XXXXX',
   github: 'https://github.com/vimal-singh-dev',
   linkedin: 'https://linkedin.com/in/vimal-singh-it',
   location: 'Kanpur, India',
@@ -194,7 +194,7 @@ export const CERTIFICATES_DATA: CertificateItem[] = [
 export const CONTACT_DATA = {
   name: 'Vimal Singh',
   email: 'cvimal144@gmail.com',
-  phone: '9569944197',
+  phone: '95699XXXXX',
   github: 'https://github.com/vimal-singh-dev',
   githubUsername: 'vimal-singh-dev',
   linkedin: 'https://linkedin.com/in/vimal-singh-it',
